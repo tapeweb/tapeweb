@@ -38,6 +38,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
 </p>
 
+<!-- 6.5. WakaTime Stats -->
+<h3 align="center">⏱️ Weekly Coding Stats</h3>
+<p align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</p>
+
 <!-- 7. Трофеи GitHub -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
