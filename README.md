@@ -5,15 +5,15 @@
 
 <!-- 2. Анимированный текст (печатающая машинка) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <!-- 3. About Me -->
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  🔭 I'm currently working on <b>something cool</b><br>
+  🔭 I'm currently working on <b>full stack projects</b><br>
   🌱 I'm currently learning <b>TypeScript & Prisma</b><br>
-  💬 Ask me about <b>Node.js, Express, PostgreSQL</b><br>
+  💬 Ask me about <b>React, Node.js, Express, PostgreSQL</b><br>
   ⚡ Fun fact: <b>I debug with console.log and I'm not ashamed</b>
 </p>
 
@@ -21,7 +21,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,docker,git,linux,express,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,nestjs,postgres,prisma,docker,git,linux&theme=dark" />
   </a>
 </p>
 
@@ -38,32 +38,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
 </p>
 
-<!-- 6.5. WakaTime Stats -->
+<!-- 7. WakaTime Stats -->
 <h3 align="center">⏱️ Weekly Coding Stats</h3>
 <p align="center">
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </p>
 
-<!-- 7. Трофеи GitHub -->
+<!-- 8. Трофеи GitHub -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tapeweb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<!-- 8. График активности -->
+<!-- 9. График активности -->
 <h3 align="center">📈 Activity Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapeweb&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<!-- 9. Цитата дня -->
+<!-- 10. Цитата дня -->
 <h3 align="center">💬 Quote of the Day</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<!-- 10. Змейка (Snake Animation) -->
+<!-- 11. Змейка (Snake Animation) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tapeweb/tapeweb/output/github-snake-dark.svg">
@@ -72,7 +72,7 @@
   </picture>
 </p>
 
-<!-- 11. Счётчик посетителей -->
+<!-- 12. Счётчик посетителей -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tapeweb&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
