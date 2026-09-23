@@ -35,7 +35,7 @@
 <!-- 6. Топ языков -->
 <h3 align="center">💻 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5" height="150" />
 </p>
 
 <!-- 7. WakaTime Stats -->
